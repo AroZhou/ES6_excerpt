@@ -7,11 +7,16 @@
         "readme": "README.md"
     },
     "plugins": [
+        "-sharing",
         "github"
     ],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/AroZhou"
+        },
+        "sharing": {
+            "facebook": false,
+            "twitter": false
         }
     }
 }

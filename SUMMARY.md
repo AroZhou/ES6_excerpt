@@ -2,15 +2,11 @@
 
 * [Introduction](README.md)
 
-### Part I
+* [1. let 和 const 命令](part1/README.md)
+    * [1.1. let 命令](part1/let.md)
 
-* [Part I](part1/README.md)
-    * [Writing is nice](part1/writing.md)
-    * [GitBook is nice](part1/gitbook.md)
 
-### Part II
-
-* [Part II](part2/README.md)
-    * [We love feedback](part2/feedback.md)
-    * [Better tools for authors](part2/better.md)
+* [2. 变量的解构赋值](part2/README.md)
+    * [2.1. 数组的解构赋值](part2/array_destructuring.md)
+    * [2.2. 对象的解构赋值](part2/object_destructuring.md)
 
