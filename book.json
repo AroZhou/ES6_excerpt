@@ -1,0 +1,17 @@
+{
+    "title": "ES6 摘要",
+    "author": "Aro",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "structure": {
+        "readme": "README.md"
+    },
+    "plugins": [
+        "github"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/AroZhou"
+        }
+    }
+}
